@@ -2,7 +2,7 @@
 
 <!--
 **Juseong-Yu/Juseong-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://cdn.discordapp.com/attachments/1136889516251173008/1136927910545076224/20230804_164516.jpg
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
