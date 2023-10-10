@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghddkfcks)](https://solved.ac/ghddkfck/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghddkfcks)](https://solved.ac/ghddkfcks/)
 
 💪Tech Stack💪
 
