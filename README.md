@@ -47,3 +47,5 @@ Here are some ideas to get you started:
   **SSAFY (삼성청년SW아카데미) 14기**  
   - 파이썬 비전공반 교육 + AI 융합 프로젝트 진행 중  
   - 실전 기반 문제 해결, 협업 중심 개발 환경 경험 중  
+
+---
