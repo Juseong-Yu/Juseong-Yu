@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Juseong-Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juseong-Yu&show_icons=true&theme=default)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa4591)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juseong-Yu&layout=compact)
-![Juseong-Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juseong-Yu&show_icons=true&theme=default)
+
 ---
 
 ### 💪 Tech Stack
