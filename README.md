@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
 
 ### ⏳ My Timeline
 
@@ -35,7 +34,7 @@ Here are some ideas to get you started:
   - 파이썬 비전공반 교육 + AI 융합 프로젝트 진행 중  
   - 실전 기반 문제 해결, 협업 중심 개발 환경 경험 중  
 
-
+---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa4591)](https://solved.ac/aaa4591/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juseong-Yu&layout=compact)
