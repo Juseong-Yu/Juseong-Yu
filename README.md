@@ -15,6 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa4591)](https://solved.ac/aaa4591/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juseong-Yu&layout=compact)
+
+💪Tech Stack💪
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/R-7EA9D7?style=flat-square&logo=R&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" />
+
+---
+
 ### ⏳ My Timeline
 
 - 🎓 **2018.03 ~ 2025.02**  
@@ -33,16 +45,3 @@ Here are some ideas to get you started:
   **SSAFY (삼성청년SW아카데미) 14기**  
   - 파이썬 비전공반 교육 + AI 융합 프로젝트 진행 중  
   - 실전 기반 문제 해결, 협업 중심 개발 환경 경험 중  
-
----
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa4591)](https://solved.ac/aaa4591/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juseong-Yu&layout=compact)
-
-💪Tech Stack💪
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/R-7EA9D7?style=flat-square&logo=R&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" />
-
-
