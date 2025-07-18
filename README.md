@@ -1,19 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JuseongYu&fontSize=80&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=JuseongYu&fontSize=75)
 
 <div align="center">
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Juseong-Yu&show_icons=true&theme=default" height="180px"/>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juseong-Yu&layout=compact&langs_count=6&hide=scss" height="180px"/>
-
-
-
-
-<!-- Solved.ac Badge -->
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa4591" height="150px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Juseong-Yu&show_icons=true&theme=default" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juseong-Yu&layout=compact&langs_count=6&hide=scss" width="47%" />
+  
+  <br /><br />
+  
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa4591" width="60%" />
 
 </div>
 
