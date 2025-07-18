@@ -1,20 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=JuseongYu&fontSize=75)
 
-<!-- 소개 카드 영역 -->
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Juseong-Yu&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Juseong-Yu&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="60%" />
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juseong-Yu&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-
-<!-- Solved.ac Tier Badge -->
+<!-- Solved.ac Badge -->
 <br/><br/>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa4591" width="300" />
 
 </div>
-
 
 ## 💪 Tech Stack
 
