@@ -2,17 +2,15 @@
 
 <div align="center">
 
-<!-- GitHub Stats + Top Langs -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Juseong-Yu&show_icons=true&theme=default" height="180px"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juseong-Yu&layout=compact&langs_count=6&hide=scss" height="180px"/>
-    </td>
-  </tr>
-</table>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Juseong-Yu&show_icons=true&theme=default" height="180px"/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juseong-Yu&layout=compact&langs_count=6&hide=scss" height="180px"/>
+
+
+
 
 <!-- Solved.ac Badge -->
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa4591" height="150px" />
