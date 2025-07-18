@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Juseong&20Yu&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Juseong%20Yu&fontSize=75)
 
 <div align="center">
 
