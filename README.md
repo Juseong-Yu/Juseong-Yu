@@ -3,11 +3,21 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Juseong-Yu&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="60%" />
+<div align="center">
 
+  <!-- 메인 통계 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Juseong-Yu&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=percentile&line_height=28" height="165" />
+
+  <!-- 연속 커밋 기록 -->
+  <img src="https://streak-stats.demolab.com?user=Juseong-Yu&theme=tokyonight&hide_border=true" height="165" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juseong-Yu&layout=compact&theme=tokyonight&hide_border=true&card_width=360" height="165" />
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa4591 "height="165" />
+</div>
 <!-- Solved.ac Badge -->
 <br/><br/>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa4591" width="300" />
+
 
 </div>
 
