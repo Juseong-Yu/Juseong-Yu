@@ -12,7 +12,7 @@
   <img src="https://streak-stats.demolab.com?user=Juseong-Yu&theme=tokyonight&hide_border=true" height="165" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juseong-Yu&layout=compact&theme=tokyonight&hide_border=true&card_width=360" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juseong-Yu&layout=compact&theme=tokyonight&hide_border=true&card_width=360&hide=Jupyter%20Notebook" height="165" />
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa4591 "height="165" />
 </div>
 <!-- Solved.ac Badge -->
