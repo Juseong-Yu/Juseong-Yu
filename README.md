@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<!-- GitHub Stats 
+<!-- GitHub Stats -->
 <div align="center">
--->
+
   <!-- 메인 통계 -->
   <img src="https://github-readme-stats.vercel.app/api?username=Juseong-Yu&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=percentile&line_height=28" height="165" />
 
