@@ -7,7 +7,8 @@
 
 
   <!-- 연속 커밋 기록
-  <img src="https://streak-stats.demolab.com?user=Juseong-Yu&theme=tokyonight&hide_border=true" height="165" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Juseong-Yu&theme=tokyonight&hide_border=true)
+
  -->
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juseong-Yu&layout=compact&theme=tokyonight&hide_border=true&card_width=360&hide=Jupyter%20Notebook" height="165" />
