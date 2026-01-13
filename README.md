@@ -74,5 +74,5 @@
 - 주거 환경의 양적 측정 방법을 제시
 - **Tech**: SQL + Excel
 - **Role**: Data analysis
-- 🔗 논문: [링크]([https://example.com](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11213524))
+- 🔗 논문: [링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11213524)
 ---
