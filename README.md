@@ -67,3 +67,12 @@
 - 다양한 문제 해결 능력 향상 중
 
 ---
+## 🚀 My Projects
+
+### 서울시 청소년 주거 환경 분석
+- 서울시의 청소년 주거 환경에 영향을 미치는 다양한 요소를 분석
+- 주거 환경의 양적 측정 방법을 제시
+- **Tech**: SQL + Excel
+- **Role**: Data analysis
+- 🔗 논문: [링크]([https://example.com](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11213524))
+---
