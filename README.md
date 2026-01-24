@@ -32,6 +32,11 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </div>
 
+### 🛠 Backend
+<div>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+</div>
+
 ### ☁️ Cloud & DevOps
 <div>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white" />
