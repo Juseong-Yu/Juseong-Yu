@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+
 </div>
 
 ### 🧠 AI / Data
@@ -35,6 +37,7 @@
 ### 🛠 Backend
 <div>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
 </div>
 
 ### ☁️ Cloud & DevOps
